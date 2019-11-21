@@ -1,5 +1,5 @@
 body{
-  background: red;
+  background: purple;
 
 }
 img{
@@ -8,3 +8,10 @@ img{
   /*margin: auto 0;*/
   padding-left: 10px;
 }
+.header{ color: black;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+.body contents{
+  font-size: 14px;
+  }
