@@ -1,7 +1,11 @@
 body{
   background: brown;
-  background-image:
-
+  background:url(image4.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+  background-position: center;
+  font-size: x-large;
 }
 img{
   width: 300px;
@@ -10,10 +14,10 @@ img{
   padding-left: 10px;
 }
 .header{ color: black;
-  font-size: 16px;
+  font-size: 20px;
   font-family: sans-serif;
 }
 .body contents{
-  font-size: 14px;
+  font-size: 18px;
   }
   
