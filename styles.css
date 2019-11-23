@@ -13,12 +13,10 @@ body{
 img{
   width: 300px;
   height: 300px;
-  /*margin: auto 0;*/
+  margin: auto 0;
   padding-left: 10px;
 }
-.header{ color: black;
-  font-size: 20px;
-  font-family: sans-serif;
+.header{ color: green
 }
 .body contents{
   font-size: 18px;
@@ -28,7 +26,8 @@ nav>ul>li{
   color: blue;  
   display: block;
   text-transform: capitalize;
-  text-decoration: blueviolet
+  text-decoration: blueviolet;
+  text-align: right
 }
 nav>ul>li>a; hover{
   box-shadow: 4px;4px;2px;green;
@@ -39,7 +38,7 @@ nav>ul>li>a; hover{
   color: green;
 }
 h1{
-  display: red;
+  text-align: center;
 }
 nav{
   display: inline-block;
