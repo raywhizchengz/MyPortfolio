@@ -20,10 +20,14 @@ img{
 .body contents{
   font-size: 18px;
 }
-nav>ul>li{
- color: blue;  
+nav>ul>li>a{
+  padding: right;
+  color: blue;  
+  display: block;
+  text-transform: capitalize;
+  text-decoration: blueviolet
 }
-nav>ul>li>a;hover{
+nav>ul>li>a; hover{
   box-shadow: 4px;4px;2px;green;
   background: color; green;
   color: green;
@@ -32,6 +36,9 @@ nav>ul>li>a;hover{
   color: green;
   text-align: center;
 }
-
-
-  
+h1{
+  display: red;
+}
+li{
+  display: inline-block;
+}  
