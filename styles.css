@@ -1,3 +1,6 @@
+html{
+  font: normal 100%/1.5 Georgia,serif;
+}
 body{
   background: brown;
   background:url(image4.jpeg);
@@ -5,6 +8,7 @@ body{
   background-attachment: scroll;
   background-size: cover;
   font-size: x-large;
+  margin: 0;
 }
 img{
   width: 300px;
@@ -33,15 +37,16 @@ nav>ul>li>a; hover{
 }
 .time{
   color: green;
-  text-align: center;
 }
 h1{
   display: red;
 }
-li{
+nav{
   display: inline-block;
-}  
-ul{
+  margin: 0;
+  list-style-type: none;
+}
+.nav li{
+  display: inline-block;
   text-align: right;
-  padding: 10px;
 }
