@@ -19,7 +19,7 @@ img{
 .body contents{
   font-size: 18px;
 }
-nav>ul>li>a{
+nav>ul>li{
   padding: right;
   color: blue;  
   display: block;
@@ -41,3 +41,7 @@ h1{
 li{
   display: inline-block;
 }  
+ul{
+  text-align: right;
+  padding: 10px;
+}

@@ -3,5 +3,9 @@ body{
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
-    
+    justify-content: flex-start;
+}
+ul>li{
+    display: inline-block;
+    text-align: right;
 }
