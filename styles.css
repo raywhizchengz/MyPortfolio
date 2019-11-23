@@ -19,5 +19,10 @@ img{
 }
 .body contents{
   font-size: 18px;
-  }
+}
+nav>ul>li{
+ color: blue;  
+}
+
+
   
