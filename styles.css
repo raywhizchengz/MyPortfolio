@@ -39,6 +39,11 @@ nav>ul>li>a; hover{
 }
 h1{
   text-align: center;
+  font-family: 'Times New Roman';
+  font-size: 80px;
+  font-style: italic;
+  font-weight: lighter;
+  text-decoration: blue;
 }
 nav{
   display: inline-block;
@@ -48,4 +53,7 @@ nav{
 .nav li{
   display: inline-block;
   text-align: right;
+}
+a{
+  text-decoration: none;
 }
