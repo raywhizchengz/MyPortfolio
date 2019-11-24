@@ -24,7 +24,7 @@ img{
 nav>ul>li{
   padding: right;
   color: blue;  
-  display: block;
+  display: inline-block;
   text-transform: capitalize;
   text-decoration: blueviolet;
   text-align: right

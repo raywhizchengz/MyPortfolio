@@ -1,0 +1,10 @@
+body{
+    background: url(paper.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+li{
+    text-align: left;
+    display: inline-block;
+}
