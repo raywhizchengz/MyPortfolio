@@ -43,7 +43,9 @@ h1{
   font-size: 80px;
   font-style: italic;
   font-weight: lighter;
-  text-decoration: blue;
+  text-decoration: none;
+  text-transform: lowercase;
+  color: blue;
 }
 nav{
   display: inline-block;
