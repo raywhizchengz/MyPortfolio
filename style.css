@@ -4,10 +4,6 @@ body{
     background-attachment: scroll;
     background-size: cover;
 }
-li{
-    display: inline-block;
-
-}
 nav{
     text-align: left;
 }
@@ -20,7 +16,12 @@ p{
     font-size: 22px;
     font-family: Calibri;
 }
-@media (min-width 600px){
-    p{
-        font-size 20px;
-    }
+.topics{
+    list-style: none;
+    display: block;
+    font-size: 18px;
+}
+li{
+    font-size: 16px;
+    display: inline-block;
+}
