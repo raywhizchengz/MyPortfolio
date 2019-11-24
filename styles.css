@@ -11,12 +11,12 @@ body{
   margin: 0;;
 }
 img{
-  width: 300px;
+  width: 400px;
   height: 300px;
   margin: auto 0;
   padding-left: 10px;
 }
-.header{ color: green
+.header{ color: en
 }
 .body contents{
   font-size: 18px;
@@ -28,14 +28,6 @@ nav>ul>li{
   text-transform: capitalize;
   text-decoration: blueviolet;
   text-align: right
-}
-nav>ul>li>a; hover{
-  box-shadow: 4px;4px;2px;green;
-  background: color; green;
-  color: green;
-}
-.time{
-  color: green;
 }
 h1{
   text-align: center;
@@ -52,11 +44,10 @@ nav{
   display: inline-block;
   margin: 0;
   list-style-type: none;
-}
-.nav li{
-  display: inline-block;
-  text-align: right;
+  float: right;
+  color: gold;
 }
 a{
   text-decoration: none;
+  display: inline-block;
 }
