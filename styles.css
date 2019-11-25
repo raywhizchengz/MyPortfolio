@@ -2,8 +2,7 @@ html{
   font: normal 100%/1.5 Georgia,serif;
 }
 body{
-  background: brown;
-  background:url(img1.jpg);
+  background:lightblue;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
@@ -12,7 +11,7 @@ body{
 }
 img{
   width: 400px;
-  height: 300px;
+  height: 400px;
   margin: auto 0;
   padding-left: 10px;
 }
@@ -39,10 +38,17 @@ nav{
   display: inline-block;
   margin: 0;
   list-style-type: none;
-  float: right;
-  color: gold;
+  clear: both;
+  padding-left: 70%;
 }
 a{
   text-decoration: none;
   display: inline-block;
+}
+.contacts{
+  font-size: 30px;
+  color:black;
+}
+.nav{
+  width: 100%;
 }

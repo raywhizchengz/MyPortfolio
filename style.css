@@ -25,3 +25,16 @@ li{
     font-size: 16px;
     display: inline-block;
 }
+.subjects{
+    display: inline-block;
+    font-size: 22px;
+    font-family: ;
+}
+.navigation{
+    float: right;
+}
+.nav{
+    height: 80px;
+    margin-bottom: 10px;
+}
+
