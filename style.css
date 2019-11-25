@@ -4,8 +4,11 @@ body{
     background-attachment: scroll;
     background-size: cover;
 }
-nav{
+.nav{
     text-align: left;
+}
+.nav a:hover{
+    color: rgb(34, 15, 126);
 }
 a{
     text-decoration: none;
@@ -36,5 +39,11 @@ li{
 .nav{
     height: 80px;
     margin-bottom: 10px;
+}
+a{
+    color: blanchedalmond;
+}
+a:hover{
+    color: rgb(34, 15, 126);
 }
 
